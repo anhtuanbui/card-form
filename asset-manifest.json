@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/card-form/static/css/main.55693013.css",
+    "main.js": "/card-form/static/js/main.7559d555.js",
+    "static/js/787.809427d9.chunk.js": "/card-form/static/js/787.809427d9.chunk.js",
+    "static/media/bg-card-back.png": "/card-form/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/card-form/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/card-form/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/card-form/index.html",
+    "static/media/icon-complete.svg": "/card-form/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "static/media/card-logo.svg": "/card-form/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.55693013.css.map": "/card-form/static/css/main.55693013.css.map",
+    "main.7559d555.js.map": "/card-form/static/js/main.7559d555.js.map",
+    "787.809427d9.chunk.js.map": "/card-form/static/js/787.809427d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55693013.css",
+    "static/js/main.7559d555.js"
+  ]
+}

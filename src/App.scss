@@ -185,7 +185,7 @@
 
           &::placeholder {
             font-size: 1rem;
-            color: lighten($color__neutral--dark-grayish-violet, 20%);
+            color: $color__neutral--dark-grayish-violet;
             font-family: $typography__font-family;
           }
         }
